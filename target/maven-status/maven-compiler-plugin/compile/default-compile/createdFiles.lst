@@ -1,0 +1,3 @@
+com/spring/data_flow_readers/JPAReader/configuration/BatchConfiguration.class
+com/spring/data_flow_readers/JPAReader/DataFlowReaderApplication.class
+com/spring/data_flow_readers/JPAReader/models/MyEntity.class
